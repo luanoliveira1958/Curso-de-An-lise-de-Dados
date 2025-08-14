@@ -6,4 +6,7 @@ folium==0.20.0
 matplotlib==3.10.0
 matplotlib-inline==0.1.6
 haversine==2.9.0
+streamlit-folium==0.25.0
 pillow==11.1.0
+streamlit-lottie==0.0.5
+requests==2.32.3
